@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "debug": ">=0.7.2",
-    "node-zookeeper-client": "0.2.0"
+    "node-zookeeper-client": "0.2.1"
   },
   "devDependencies": {
     "interceptor": "*",
