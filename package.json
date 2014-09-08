@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "debug": ">=0.7.2",
-    "node-zookeeper-client": "0.2.1"
+    "node-zookeeper-client": "git+http://github.com/robskillington/node-zookeeper-client.git"
   },
   "devDependencies": {
     "interceptor": "*",
